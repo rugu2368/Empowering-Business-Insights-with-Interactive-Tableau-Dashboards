@@ -18,9 +18,6 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
 
 <img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG" alt="SS 2"/>
 
-### 3. UT Mart Sales Analytics Dashboard
-
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/UT%20Mart%20Sales%20Analytics/Screenshots/UT%20Mart%20Sales%20PNG.PNG" alt="SS 3"/>
 
 
 
@@ -28,7 +25,7 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
 
 
 
-  - To Create 3 interactive dashboards and publish it online to share
+  - To Create 2 interactive dashboards and publish it online to share
 
   - Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
 
